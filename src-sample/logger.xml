@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+
+<loggers observe="off">
+	<logger name="kr.co.bomz.db" type="console" level="debug" />
+
+</loggers>
